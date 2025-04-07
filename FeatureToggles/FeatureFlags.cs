@@ -1,6 +1,6 @@
 namespace CalculatorApi.FeatureToggles;
 
-public class FeatureFlags
+public static class FeatureFlags
 {
-    
+    public const string SaveCalculationHistory = "SaveCalculationHistory";
 }
