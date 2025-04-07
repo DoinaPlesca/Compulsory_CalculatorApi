@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4NGqLGUy779utZzi+t1SSHAGG62FUN1MXqcpcQSDJ54=",
+  "Source": "CalculatorApi",
+  "BasePath": "_content/CalculatorApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
